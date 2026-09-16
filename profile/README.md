@@ -43,16 +43,16 @@ With the **Gene2Edit** platform, we seek to transform these targets into immunot
 
 ### Team
 
-- **Dr. Tatiana Cecilio** — Founder | CEO/CSO
-- **Dr. Leticia Magalhães Arruda** — Business Developer
-- **Dr. Heloísa Berti Gabriel** — R&D and Quality Manager
-- **Dr. Mara Elisama da Silva Januário** — Senior Researcher
-- **M.Sc. Murilo Henrique Anzolini Cassiano** — Senior Bioinformatician
+- **Tatiana Cecilio, Ph.D.** — Founder | CEO/CSO
+- **Leticia Magalhães Arruda, Ph.D.** — Business Developer
+- **Heloísa Berti Gabriel, Ph.D.** — R&D and Quality Manager
+- **Mara Elisama da Silva Januário, Ph.D.** — Senior Researcher
+- **Murilo Henrique Anzolini Cassiano, M.Sc. ** — Senior Bioinformatician
 
 ### Advisory Board
 
-- **Prof. Dr. Fernando de Queiroz Cunha** — Science and Innovation
-- **Dr. Catherine David** — Global Business and Strategic Partnerships
+- **Prof. Fernando de Queiroz Cunha, Ph.D.** — Science and Innovation
+- **Catherine David, Ph.D.** — Global Business and Strategic Partnerships
 - **Renan Padron** — Open Innovation and Industry
 
 ## Mission
