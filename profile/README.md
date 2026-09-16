@@ -41,52 +41,6 @@ Our R&D program focuses on **tumor-associated macrophages**, a cell population r
 
 With the **Gene2Edit** platform, we seek to transform these targets into immunotherapeutic assets with potential for licensing, co-development, and strategic partnerships.
 
-## Gene2Edit platform
-
-The Gene2Edit pipeline integrates functional genomics, target prioritization, experimental validation, and preclinical development.
-
-```text
-LARGE-SCALE FUNCTIONAL GENOMICS
-              ↓
-       TARGET PRIORITIZATION
-              ↓
-   3D CELLULAR MODEL VALIDATION
-              ↓
-    SYSTEMIC TESTING & EFFICACY
-              ↓
-  INTELLECTUAL PROPERTY PROTECTION
-              ↓
-        VALIDATED ASSET
-```
-
-### 01 — Large-scale functional genomics
-
-Large-scale functional approaches map genes, pathways, and mechanisms relevant to initiating programs with greater biological clarity.
-
-### 02 — Target prioritization
-
-Functional data, public evidence, and proprietary models are integrated through algorithms to identify targets with greater therapeutic potential.
-
-### 03 — Validation
-
-Advanced cellular models, including tumor-derived organoids, allow us to evaluate genetic alterations, cellular responses, and functional evidence before progressing to more systemic testing.
-
-### 04 — Efficacy
-
-Systemic testing evaluates whether effects observed in experimental models persist under more complex conditions, including animal models, supporting the assessment of efficacy, initial safety, and biological robustness.
-
-### 05 — Protection
-
-Evidence generated throughout the pipeline supports the protection and technological differentiation strategy for assets, methods, and results.
-
-### 06 — Validated asset
-
-The objective is to consolidate assets with functional, translational, and strategic evidence to guide their development, licensing, partnership, or program expansion.
-
-## Science and strategy
-
-EditBio was established in Brazil based on its founder's experience in international innovation environments. The company connects scientific research and translational development to transform biological discoveries into technologies and immunotherapeutic assets.
-
 ### Team
 
 - **Dr. Tatiana Cecilio** — Founder | CEO/CSO
@@ -112,10 +66,6 @@ Lead biotechnology innovation based on gene editing, driving the discovery and d
 ## Values
 
 **Scientific excellence · Innovation · Ethics · Collaboration · Commitment to societal impact**
-
-## GitHub
-
-This organization hosts the computational and technological resources that support EditBio's research, including software, bioinformatics, data analysis, artificial intelligence, and functional genomics tools.
 
 ## Links
 
