@@ -47,7 +47,7 @@ With the **Gene2Edit** platform, we seek to transform these targets into immunot
 - **Leticia Magalhães Arruda, Ph.D.** — Business Developer
 - **Heloísa Berti Gabriel, Ph.D.** — R&D and Quality Manager
 - **Mara Elisama da Silva Januário, Ph.D.** — Senior Researcher
-- **Murilo Henrique Anzolini Cassiano, M.Sc. ** — Senior Bioinformatician
+- **Murilo Henrique Anzolini Cassiano, M.Sc.** — Senior Bioinformatician
 
 ### Advisory Board
 
